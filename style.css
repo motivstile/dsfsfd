@@ -1,0 +1,41 @@
+.header nav h1 {
+    margin-left: 100px;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+.ull {
+    gap: 100px;
+    display: flex;
+    /* justify-content: space-between; */
+
+    list-style: none;
+    margin-top: -40px;
+    margin-left: 800px;
+
+}
+
+.ull li {
+    gap: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.button {
+    
+    margin-left: 1300px;
+    margin-top: -40px;
+}
+
+.white {
+    gap: 70px;
+    background-color: #FB982F;
+    text-align: center  ;
+}
+.black{
+    background-color: black;
+    color: white;
+}
